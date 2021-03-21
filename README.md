@@ -1,3 +1,5 @@
+![image](https://raw.githubusercontent.com/vaxx-y/Scalable-Discord/main/assets/banner.jpg)
+
 # Scalable Discord
 
 Make discord smaller than usual! Use discord like you're on your phone!
