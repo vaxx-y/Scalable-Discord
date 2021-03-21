@@ -23,11 +23,11 @@ Note that the only change is the addition of MIN_HEIGHT and MIN_WIDTH under IS_M
 default discord minimum width and height, allowing this plugin to work.
 
 If you cannot find your `settings.json`, look in:
- - Linux: `~/.config/discordcanary/settings.json`
- - Windows: `%appdata%/discordcanary/settings.json`
- - macOS: `~/Library/Application Support/discordcanary`
+ - Linux: `~/.config/discord/settings.json`
+ - Windows: `%appdata%/discord/settings.json`
+ - macOS: `~/Library/Application Support/discord`
 
-Please report any bugs, incompatabilities with powercord plugins, etc within Issues
+Please report any bugs, incompatabilities with vizality plugins, etc within the Issues tab.
 
 ## Preview
 
@@ -36,7 +36,7 @@ Please report any bugs, incompatabilities with powercord plugins, etc within Iss
 ## Installation
 Install this plugin into your Powercord plugins folder.
 ```
-git clone https://github.com/j0lol/Scalable-Discord
+git clone https://github.com/vax-xy/Scalable-Discord
 ```
 
 ## Wallpaper
