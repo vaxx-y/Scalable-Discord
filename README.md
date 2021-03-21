@@ -34,10 +34,13 @@ Please report any bugs, incompatabilities with vizality plugins, etc within the 
 ![Preview](https://downloadmoredownloads.download/i/puwu4ur8.gif)
 
 ## Installation
-Install this plugin into your Powercord plugins folder.
+Install this plugin into your Vizality plugins folder.
 ```
 git clone https://github.com/vax-xy/Scalable-Discord
 ```
 
 ## Wallpaper
 people keep asking for it so [here you go](https://downloadmoredownloads.download/i/az3w1vpd.png), you can find [the uncropped version here, but it looks like you need to pay or something for wallpaper quality](https://www.artstation.com/artwork/QR6eB)
+
+## Credits
+Thanks [j0lol](https://github.com/j0lol/) for creating the original plugin.
