@@ -1,7 +1,7 @@
 {
 	"name": "Scalable Discord",
 	"version": "1.0.2",
-	"description": "Make discord smaller than usual! Use discord like you're on your phone!",
-	"author": "jo",
+	"description": "Make discord smaller than usual! Use discord like you're on your phone! Ported to Vizality.",
+	"author": "jo | Ported by Lax",
 	"license": "The Unlicense"
 }
