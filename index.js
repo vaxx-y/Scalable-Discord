@@ -1,16 +1,16 @@
-const { Plugin } = require('powercord/entities');
+const { Plugin } = require('@vizality/entities');
 
 module.exports = class ScalableDiscord extends Plugin {
 
-	startPlugin() {
-		this.loadStylesheet('style.scss');
+	start() {
+		this.injectStyles('style.scss');
 
 		// init
 		document.body.addEventListener("click", this.handleClick);
 
 	}
 
-	pluginWillUnload() {
+	stop() {
 		document.body.removeEventListener("click", this.handleClick);
 	}
 
